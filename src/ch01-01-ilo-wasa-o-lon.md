@@ -20,7 +20,7 @@ sina kepeken ilo Linu anu ilo Makowe la o toki e ni tawa ilo:
 $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
 
-kepeken toki ni la ilo li kama lon e ilo `rustup`. ken la, sina wile toki len. kepeken toki len ni la ilo sina li ken sona e ni: jan ilo li sina.
+kepeken toki ni la ilo `rustup` li kama lon. ken la, sina wile toki len. kepeken toki len ni la ilo sina li ken sona e ni: jan ilo li sina.
 
 kama lon li pona la sina ken lukin e ni:
 
