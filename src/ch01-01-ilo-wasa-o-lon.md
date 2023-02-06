@@ -86,7 +86,7 @@ ilo Linu anu ilo Makowe la o toki e ni:
 $ echo $PATH
 ```
 
-ni li pona la taso ilo pi nasin Wasa li ken ala la [o toki tawa kulupu Wasa][community].
+ni li pona la taso ilo pi nasin Wasa li awen ken ala la [o toki tawa kulupu Wasa][community].
 
 ### nasin pi jo sin en nasin weka
 
