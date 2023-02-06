@@ -54,7 +54,7 @@ toki ilo pi lipu ni la sina ken kepeken ilo *cmd.exe* anu ilo PowerShell. sina w
 
 ### pakala la
 
-ijo li pakala la o sona e ni: ilo pi nasin Wasa li lon pona kepeken ni: o toki e ni:
+ijo li pakala la o sona e ni: ilo pi nasin Wasa li lon ala lon pona? o alasa kepeken toki ni:
 
 ```console
 $ rustc --version
