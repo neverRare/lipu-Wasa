@@ -4,7 +4,7 @@ pali nanpa wan li ni: jan o lon e nasin Wasa lon ilo kepeken ilo `rustup`. ilo `
 
 > sina wile ala kepeken ilo `rustup` la o lukin e lipu ni: [Other Rust Installation Methods page][otherinstall]
 
-lipu ni li nasin ni: sina jo e ilo sin a pi nasin Wasa.
+lipu ni li toki e nasin ni: sina jo e ilo sin a pi nasin Wasa.
 
 ilo pi nasin Wasa li tan tenpo ni anu tenpo kama la ilo li ken sona e nasin Wasa pi lipu ni. taso, ken la, ilo li toki e ijo ante tan lipu ni. ni li tan ni: mama pi nasin Wasa li pona e ilo lon tenpo ale.
 
