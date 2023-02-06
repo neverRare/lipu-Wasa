@@ -10,7 +10,7 @@ ilo pi nasin Wasa li tan tenpo ni anu tenpo kama la ilo li ken sona e nasin Wasa
 
 > ### sitelen pi toki ilo
 >
-> lipu ni la toki ilo li lon. toki sina la sitelen `$` li lon open. sina o toki ala e sitelen `$`. toki pi sitelen `$` ala li toki tan ilo. ante la, ilo PowerShell la, sitelen `>` li lon. kin sitelen `$` li lon ala.
+> lipu ni la toki ilo li lon. toki sina la sitelen `$` li lon open. sina o toki ala e sitelen `$`. toki pi sitelen `$` ala li toki tan ilo. ante la, ilo Pawase la, sitelen `>` li lon. kin sitelen `$` li lon ala.
 
 ### nasin pi ilo Linu anu ilo Makowe
 
@@ -36,7 +36,7 @@ ilo Makowe la ilo li ken jo e ilo ni kepeken toki ni:
 $ xcode-select --install
 ```
 
-ilo Linu la ilo o jo e ilo GCC anu ilo Clang.
+ilo Linu la ilo o jo e ilo Sisisi anu ilo Kalan.
 
 ilo Upuntu la ilo o jo e ilo `build-essential` tan ilo `apt`.
 
@@ -50,7 +50,7 @@ ilo li wile e ilo MSVC Build Tools. o lon e [ilo Visual Studio 2022][visualstudi
 * The Windows 10 or 11 SDK
 * The English language pack component; sina ken jo e toki sina.
 
-toki ilo pi lipu ni la sina ken kepeken ilo *cmd.exe* anu ilo PowerShell. sina wile kepeken wan la lipu ni li toki e ni.
+toki ilo pi lipu ni la sina ken kepeken ilo *cmd.exe* anu ilo Pawase. sina wile kepeken wan la lipu ni li toki e ni.
 
 ### pakala la
 
@@ -74,7 +74,7 @@ ilo Winto la ilo CMD la o toki e ni:
 > echo %PATH%
 ```
 
-ilo Winto la ilo PowerShell la o toki e ni:
+ilo Winto la ilo Pawase la o toki e ni:
 
 ```powershell
 > echo $env:Path
