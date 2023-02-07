@@ -48,11 +48,11 @@ ilo li wile e ilo MSVC Build Tools. o lon e [ilo Visual Studio 2022][visualstudi
 
 * “Desktop Development with C++”
 * The Windows 10 or 11 SDK
-* The English language pack component; sina ken jo e toki sina.
+* The English language pack component; sina ken jo e toki ante pi wile sina.
 
-toki ilo pi lipu ni la sina ken kepeken ilo *cmd.exe* anu ilo Pawase. sina wile kepeken wan la lipu ni li toki e ni.
+toki ilo pi lipu ni la sina ken kepeken ilo Command Prompt anu ilo Pawase. sina wile kepeken ilo wan la lipu ni li toki e ni.
 
-### pakala la
+### nasin pi pona pakala
 
 ijo li pakala la o sona e ni: ilo pi nasin Wasa li lon ala lon pona? o alasa kepeken toki ni:
 
@@ -66,9 +66,9 @@ ilo li toki sama sitelen ni la, ilo li lon pona.
 rustc x.y.z (abcabcabc yyyy-mm-dd)
 ```
 
-sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon ala kulupu `%PATH%`?
+sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon ala lon kulupu `%PATH%`?
 
-ilo Winto la ilo CMD la sina ken sona kepeken toki ni:
+ilo Winto la ilo Command Prompt la sina ken sona kepeken toki ni:
 
 ```console
 > echo %PATH%
@@ -90,7 +90,7 @@ ijo li awen pakala la [o toki tawa kulupu Wasa][community].
 
 ### nasin pi jo sin en nasin weka
 
-sina wile jo e ilo sin la o toki e ni:
+sina wile sin e ilo pi nasin Wasa la o toki e ni:
 
 ```console
 $ rustup update
@@ -104,7 +104,7 @@ $ rustup self uninstall
 
 ### lipu tan ilo `rustup`
 
-ilo li jo e lipu ale pi nasin Wasa. sina wile lukin e ni la o toki e ni:
+ilo `rustup` li jo e lipu ale pi nasin Wasa. sina wile lukin e ni la o toki e ni:
 
 ```console
 $ rustup doc
