@@ -66,27 +66,27 @@ ilo li toki sama sitelen ni la, ilo li lon pona.
 rustc x.y.z (abcabcabc yyyy-mm-dd)
 ```
 
-sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon ala kulupu `%PATH%`? o alasa:
+sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon ala kulupu `%PATH%`?
 
-ilo Winto la ilo CMD la o toki e ni:
+ilo Winto la ilo CMD la sina ken sona kepeken toki ni:
 
 ```console
 > echo %PATH%
 ```
 
-ilo Winto la ilo Pawase la o toki e ni:
+ilo Winto la ilo Pawase la sina ken sona kepeken toki ni:
 
 ```powershell
 > echo $env:Path
 ```
 
-ilo Linu anu ilo Makowe la o toki e ni:
+ilo Linu anu ilo Makowe la sina ken sona kepeken toki ni:
 
 ```console
 $ echo $PATH
 ```
 
-ni li pona la taso ilo pi nasin Wasa li awen ken ala la [o toki tawa kulupu Wasa][community].
+ijo li awen pakala la [o toki tawa kulupu Wasa][community].
 
 ### nasin pi jo sin en nasin weka
 
