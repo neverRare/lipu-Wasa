@@ -1,6 +1,6 @@
 ## ilo Wasa o lon
 
-pali nanpa wan li ni: jan o lon e nasin Wasa lon ilo kepeken ilo `rustup`. ilo `rustup` li lon e ilo mute pi nasin Wasa. ni la ilo li wile e linluwi. <!-- o toki ala e nimi linluwi-->
+pali nanpa wan li ni: jan o lon e nasin Wasa lon ilo kepeken ilo `rustup`. ilo `rustup` li lon e ilo mute pi nasin Wasa. ni la ilo sina o ken toki tawa ilo ante.
 
 > sina wile ala kepeken ilo `rustup` la o lukin e lipu ni: [Other Rust Installation Methods page][otherinstall]
 
