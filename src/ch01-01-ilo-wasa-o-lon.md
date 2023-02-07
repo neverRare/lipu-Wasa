@@ -66,7 +66,7 @@ ilo li toki sama sitelen ni la, ilo li lon pona.
 rustc x.y.z (abcabcabc yyyy-mm-dd)
 ```
 
-sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon kulupu `%PATH%` kepeken ni:
+sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon ala kulupu `%PATH%`? o alasa:
 
 ilo Winto la ilo CMD la o toki e ni:
 
