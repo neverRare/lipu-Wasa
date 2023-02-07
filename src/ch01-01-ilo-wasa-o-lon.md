@@ -2,7 +2,7 @@
 
 pali nanpa wan li ni: o lon e nasin Wasa lon ilo sina kepeken ilo `rustup`. ilo `rustup` li lon e ilo mute pi nasin Wasa. ni la ilo sina o ken toki tawa ilo ante.
 
-> sina wile ala kepeken ilo `rustup` la o lukin e lipu ni: [nasin ante][otherinstall]
+> sina wile ala kepeken ilo `rustup` la o lukin e [lipu pi nasin ante][otherinstall]
 
 lipu ni li toki e nasin ni: sina jo e ilo sin a pi nasin Wasa.
 
