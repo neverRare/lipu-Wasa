@@ -4,7 +4,7 @@ ilo li jo e ilo pi nasin Wasa la o sitelen Wasa a! sitelen sin la ilo li toki e 
 
 > ilo lipu li ni: sina ken sitelen e lipu nasin kepeken ona. ilo li kute e lipu nasin ni. ni la, sina ken kepeken ilo sitelen pi wile sina.
 >
-> ken la, ilo lipu sina li sona e nasin Wasa. sina wile sona e ni la o lukin e [lipu pi ilo lipu][devtools].
+> ilo lipu sina li sona ala sona e nasin Wasa? ni li ken. sina wile sona e ni la o lukin e [lipu pi ilo lipu][devtools].
 
 ### nasin pi pali poki
 
