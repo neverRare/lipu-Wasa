@@ -26,21 +26,21 @@ This is out of laziness on my part but you may leave out terms in toki pona tran
 
     Original:
 
-    > The first step is to install Rust. We’ll download Rust through `rustup`, a command line tool for managing Rust versions and associated tools. You’ll need an __internet connection__ for the download.
+    > The first step is to install Rust. We’ll download Rust through `rustup`, a command line tool for managing Rust versions and associated tools. You’ll need an _internet connection_ for the download.
 
     Translated:
 
-    > pali nanpa wan li ni: o lon e nasin Wasa lon ilo sina kepeken ilo rustup. ilo `rustup` li lon e ilo mute pi nasin Wasa. ni la __ilo sina o ken toki tawa ilo ante__.
+    > pali nanpa wan li ni: o lon e nasin Wasa lon ilo sina kepeken ilo rustup. ilo `rustup` li lon e ilo mute pi nasin Wasa. ni la _ilo sina o ken toki tawa ilo ante_.
 
   - **Password**
 
     Original:
 
-    > The command downloads a script and starts the installation of the rustup tool, which installs the latest stable version of Rust. You might be prompted for your __password__. (&#8230;)
+    > The command downloads a script and starts the installation of the rustup tool, which installs the latest stable version of Rust. You might be prompted for your _password_. (&#8230;)
 
     Translated:
 
-    > kepeken toki ni la ilo rustup li kama lon. ken la, __sina wile toki len. kepeken toki len ni la ilo sina li ken sona e ni: jan ilo li sina.__
+    > kepeken toki ni la ilo rustup li kama lon. ken la, _sina wile toki len. kepeken toki len ni la ilo sina li ken sona e ni: jan ilo li sina._
 
 We have English to toki pona dictionary just for this purpose: [lipu sona][lipu-sona].
 
