@@ -16,7 +16,7 @@ There's directory `src/` which contains translated documents. There's `src-Engli
 This is out of laziness on my part but you may leave out terms in toki pona translation if you think it doesn't matter:
 
 - You may leave out terms if mentioning other terms work. For example: The original Rust book mentions Linker is needed for Rust to work. However, in toki pona, there's no mention of linker because linker is part of C compiler and Rust needed C compiler anyway.
-- With assumptions to the reader, you may leave out terms if the readers knows it anyway. For example, the original Rust book mentions the reader must be familiar with command-line. However, one prerequisites of the Rust book is that the reader must know at least one programming language. Given this prerequisite, we can remove the mention of command-line being a requirement.
+- With assumptions to the reader, you may leave out terms if the readers knows it anyway. For example, the original Rust book mentions the reader must be familiar with command-line. However, one prerequisites of the Rust book is that the reader must know at least one programming languages. Given this prerequisite, we can remove the mention of knowledge command-line being a requirement.
 
 ### Avoid lexicalization
 
