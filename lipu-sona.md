@@ -1,7 +1,5 @@
 # lipu sona
 
-context: https://github.com/neverRare/lipu-Wasa
-
 **Rust** - programming langauge - a high-level systems programming language with focus to safety and concurrency/parallelism  
 transliterated: nasin Wasa (conflicts with rustup but okay to use, rustup being ilo Wasa is dispreferred)
 
