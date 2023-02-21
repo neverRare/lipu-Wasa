@@ -8,7 +8,7 @@ ilo li jo e ilo pi nasin Wasa la o sitelen Wasa a! sitelen sin la ilo li toki e 
 
 ### nasin pi pali poki
 
-sina wile e poki pi lipu Wasa. ni li suli ala tawa nasin Wasa: poki ni li lon seme? taso, lipu ni la:
+sina wile e poki sin pi lipu Wasa. ni li suli ala tawa nasin Wasa: poki ni li lon seme? taso, lipu ni la:
 
 ilo Linu anu ilo Makowe la, poki li `~/projects`. ilo Winto la, poki li `%USERPROFILE%\projects`.
 
@@ -30,14 +30,11 @@ ilo Command Prompt la o toki e ni:
 > cd hello_world
 ```
 
-### Writing and Running a Rust Program
+### lipu en pali pi nasin Wasa
 
-Next, make a new source file and call it *main.rs*. Rust files always end with
-the *.rs* extension. If you’re using more than one word in your filename, the
-convention is to use an underscore to separate them. For example, use
-*hello_world.rs* rather than *helloworld.rs*.
+sina lon e poki la o lon e lipu sin lon ona. nimi ona o nimi *main.rs*. lipu pi nasin Wasa la nimi *.rs* li lon pini nimi. nimi li nimi mute la sitelen `_` li lon insa nimi tu. nimi *toki_ma_ale_o.rs* li pona. nimi *tokimaaleo.rs* li pona ala.
 
-Now open the *main.rs* file you just created and enter the code in Listing 1-1.
+o sitelen e *main.rs* kepeken ilo sitelen. o sitelen e ni:
 
 <span class="filename">Filename: main.rs</span>
 
