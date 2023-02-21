@@ -51,5 +51,5 @@ I'm honestly not sure for most part. But, here are the ones I recommend:
 - Don't Tokiponize generic words like linker and password, use the techniques explained in [section Avoid lexicaliation][avoid-lexicalization].
 - Don't Tokiponize command-line tool name or other words that are expected in command or program such as programming keyword. Wrap them in `` ` ` ``. For example: ilo `cargo`, ilo `rustup`, nimi `if`, and nimi `false`.
 
-[lipu-sona]: https://gist.github.com/neverRare/2c7fd677b82e62755ffa0d318150d53b
+[lipu-sona]: ./lipu-sona.md
 [avoid-lexicalization]: #avoid-lexicalization
