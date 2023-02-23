@@ -6,10 +6,7 @@ Here are guidelines for contributing.
 
 There's directory `src/` which contains translated documents. There's `src-English/` which contains original documents.
 
-## Translating words and paragraphs
-
-1. Avoid Lexicalization
-2. Avoid Tokiponizing generic terms. For example, translating *linker* into *ilo Linka*.
+## Guidelines for translating words and paragraphs
 
 ### Leaving out terms
 
@@ -41,15 +38,22 @@ This is out of laziness on my part but you may leave out terms in toki pona tran
     Translated:
 
     > kepeken toki ni la ilo rustup li kama lon. ken la, _sina wile toki len. kepeken toki len ni la ilo sina li ken sona e ni: jan ilo li sina._
+  
+  Additionally, some words such as directory/folder don't need introduction. We can infer from context what such word (poki, in this case) means.
 
 We have English to toki pona dictionary just for this purpose: [lipu sona][lipu-sona].
 
 ### To Tokiponize or not to Tokiponize
 
-I'm honestly not sure for most part. But, here are the ones I recommend:
+Here are some guidelines to Tokiponize proper names. These are meant to keep the names mentioned in the book in consistent format.
 
-- Don't Tokiponize generic words like linker and password, use the techniques explained in [section Avoid lexicaliation][avoid-lexicalization].
-- Don't Tokiponize command-line tool name or other words that are expected in command or program such as programming keyword. Wrap them in `` ` ` ``. For example: ilo `cargo`, ilo `rustup`, nimi `if`, and nimi `false`.
+- Avoid Tokiponizing generic words like linker and password, use the techniques explained in [section Avoid lexicaliation][avoid-lexicalization].
+- Avoid Tokiponizing command-line tool name, programming keyword, or other words that are expected in command or program such. Wrap them in `` ` ` ``. For example: ilo `cargo`, ilo `rustup`, nimi `if`, and nimi `false`.
+- Avoid making it exactly spelled like a toki pona word.
+- Keep it in one word. For example: Command Prompt -> ilo Kamanpon.
+- Prefer what's the community mostly prefer, ask in [ma pona pi toki pona][ma-pona-pi-toki-pona].
+- When first mentioned, include the original name in parentheses. For example: ilo Wasa (Rust).
 
 [lipu-sona]: ./lipu-sona.md
 [avoid-lexicalization]: #avoid-lexicalization
+[ma-pona-pi-toki-pona]: https://discord.gg/Byqn5z9
