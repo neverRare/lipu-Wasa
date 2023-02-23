@@ -43,7 +43,7 @@ transliterated: ilo Sisisi
 transliterated: ilo Kalan
 
 **Visual Studio 2022** - IDEs and build tools for Windows - Rust need this for Windows, just the build tools not IDEs  
-transliterated: (just use ilo Visual Studio 2022 or ilo Visual Studio)
+transliterated: ilo Wisuwa Susijo
 
 **linker** - generic - a tool that links multiple machine codes into one, included in C build tools like GCC and Clang - Rust need this  
 phrase: ilo pi kama wan  
@@ -51,7 +51,7 @@ sentence: ilo ni li moku e ijo nasin mute li pana e ijo wan. jan li ken ala sona
 (note: linker's job is mostly invisible when using rust, might as well not mention it at all aside for things like troubleshooting or installation)
 
 **Command Prompt** - aka cmd.exe - a Windows default command-line interpreter  
-transliterated: ilo Kamanpon (discouraged, just use ilo Command Prompt)
+transliterated: ilo Kamanpon
 
 **PowerShell** - a Windows command-line shell and scripting language  
 transliterated: ilo Pawase
