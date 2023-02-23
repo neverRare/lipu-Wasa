@@ -6,6 +6,18 @@ Here are guidelines for contributing.
 
 There's directory `src/` which contains translated documents. There's `src-English/` which contains original documents.
 
+## Format of commit messages, issues, and pull requests
+
+Just for fun, keep them in toki pona. You may choose to use English but please consider using toki pona, it's fun.
+
+For commit messages, if you choose toki pona. Assume your name is at the start so start your message with "li". For example: "li pona e lipu".
+
+## Before translating
+
+Please open an issue telling you want to translate a section of the book. You may choose other medium listed below. Mention precisely which part of the book. With this way, I won't translate these parts so I can let you translate it.
+
+Contact me: TODO
+
 ## Guidelines for translating words and paragraphs
 
 ### Leaving out terms
