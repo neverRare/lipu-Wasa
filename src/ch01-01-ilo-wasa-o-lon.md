@@ -12,7 +12,7 @@ ilo pi nasin Wasa li tan tenpo ni anu tenpo kama la ilo li ken sona e nasin Wasa
 >
 > lipu ni la toki ilo li lon. toki sina la sitelen `$` li lon open. sina o toki ala e sitelen `$`. toki pi sitelen `$` ala li toki tan ilo. ante la, ilo Pawase la, sitelen `>` li lon. kin sitelen `$` li lon ala.
 
-### nasin pi ilo Linu anu ilo Makowe
+### nasin pi ilo Linu (Linux) anu ilo Makowe (macOS)
 
 sina kepeken ilo Linu anu ilo Makowe la o toki e ni tawa ilo:
 
@@ -40,17 +40,17 @@ ilo Linu la ilo o jo e ilo Sisisi anu ilo Kalan.
 
 ilo Upuntu la ilo o jo e ilo `build-essential` tan ilo `apt`.
 
-### nasin pi ilo Winto
+### nasin pi ilo Winto (Windows)
 
 o tawa [lipu https://www.rust-lang.org/tools/install][install]. o kute e toki ilo.
 
-ilo li wile e ilo MSVC Build Tools. o lon e [ilo Visual Studio 2022][visualstudio]. ilo ni li toki e wile sina la o jo e ni:
+ilo li wile e ilo MSVC Build Tools. o lon e [ilo Wisuwasusijo (Visual Studio 2022)][visualstudio]. ilo ni li toki e wile sina la o jo e ni:
 
 * “Desktop Development with C++”
 * The Windows 10 or 11 SDK
 * The English language pack component; sina ken jo e toki ante pi wile sina.
 
-toki ilo pi lipu ni la sina ken kepeken ilo Command Prompt anu ilo Pawase. sina wile kepeken ilo wan la lipu ni li toki e ni.
+toki ilo pi lipu ni la sina ken kepeken ilo Kamanpon (Command Prompt) anu ilo Pawase (Powershell). sina wile kepeken ilo wan la lipu ni li toki e ni.
 
 ### nasin pi pona pakala
 
@@ -68,7 +68,7 @@ rustc x.y.z (abcabcabc yyyy-mm-dd)
 
 sitelen ni li lon ala la o sona e ni: ilo pi nasin Wasa li lon ala lon kulupu `%PATH%`?
 
-ilo Winto la ilo Command Prompt la sina ken sona kepeken toki ni:
+ilo Winto la ilo Kamanpon la sina ken sona kepeken toki ni:
 
 ```console
 > echo %PATH%

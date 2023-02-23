@@ -21,7 +21,7 @@ $ mkdir hello_world
 $ cd hello_world
 ```
 
-ilo Command Prompt la o toki e ni:
+ilo Kamanpon la o toki e ni:
 
 ```cmd
 > mkdir "%USERPROFILE%\projects"
